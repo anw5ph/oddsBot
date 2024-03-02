@@ -44,4 +44,4 @@ Contributions to OddsBot are welcome! If you have suggestions for improvements o
 * Issue your pull request with a comprehensive description of changes.
 
 ## License
-[Apache 2.0 License](https://github.com/anw5ph/oddsBot?tab=Apache-2.0-1-ov-file#readme) - Typically, open-source projects are released under licenses such as MIT, GPL, etc. Ensure to include your chosen license text in a LICENSE file in the root of the project.
+[Apache 2.0 License](https://github.com/anw5ph/oddsBot?tab=Apache-2.0-1-ov-file#readme)
