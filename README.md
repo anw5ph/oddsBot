@@ -26,22 +26,22 @@ ODDS_API_KEY=<Your_The_Odds_API_Key>
 ```
 4. Replace the placeholders with your actual Discord token, guild ID, and The Odds API key.
 
-*** Running the Bot
+### Running the Bot
 Execute the bot by running `python bot.py` in your terminal. Ensure you're in the project's root directory.
 
-** Usage
+## Usage
 * **Fetching Odds:** Use the `!get-odds <league>` command to fetch current odds for the specified league. You must have the 'Admin' role to use this command.
 * **Viewing Help:** Use `!help` to view all available commands and their descriptions.
 
-** Contributing
+## Contributing
 Contributions to OddsBot are welcome! If you have suggestions for improvements or new features, please feel free to create an issue or open a pull request.
 
-*** Guidelines
+### Guidelines
 * Fork the repository and create your branch from `main`.
 * If you've added code that should be tested, add tests.
 * Ensure your code lints and follows the existing code style.
 * Update the `README.md` with details of changes, including new environment variables, exposed ports, useful file locations, and container parameters.
 * Issue your pull request with a comprehensive description of changes.
 
-** License
+## License
 [Your License Here] - Typically, open-source projects are released under licenses such as MIT, GPL, etc. Ensure to include your chosen license text in a LICENSE file in the root of the project.
